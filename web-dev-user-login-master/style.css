@@ -1,0 +1,53 @@
+html {
+    background-image: url("images/background.jpg");
+    background-size:cover;
+}
+
+.log_box {
+    width:600px;
+    background-color:rgba(255, 255, 255, 0.8);
+    margin:0 auto;
+    border:2px solid purple;
+    font-family: 'Montserrat', sans-serif;
+    border-radius:15px;
+
+
+}
+body {
+    text-align:center;
+}
+
+#pass-worthy{
+    background-color:green;
+    color:white;
+    padding:5px 15px;
+    font-variant:small-caps;
+    font-size:20px;
+}
+
+.forgot {
+    font-family:Georgia;
+}
+
+#highlight {
+    background-color:Purple;
+    color:white;
+    padding:15px;
+}
+
+.image{
+    width:50px;
+    margin:5px;
+}
+img {
+    width:450px;
+}
+
+a {
+    text-decoration:none;
+    color:white;
+}
+
+a:hover{
+    color:yellow;
+}
